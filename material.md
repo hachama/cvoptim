@@ -5,9 +5,6 @@ permalink: /material/
 ---
 
 
-### Conference and Journal Papers in Chronological Order
-
- 
 | Week |  Chapter                                          | Slides/Scibes | Notebooks | Exercices 
 |:----:|:-------------------------------------------------:|:-------------:|:---------:|:---------:     
 |  1   | Introduction                                      |   -           |   -       |  
