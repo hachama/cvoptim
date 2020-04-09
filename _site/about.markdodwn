@@ -3,17 +3,17 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>References | Welcome</title>
+<title>Contact | Welcome</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="References" />
+<meta property="og:title" content="Contact" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Teaching and research activities: Applied mathematics, Computer vision." />
 <meta property="og:description" content="Teaching and research activities: Applied mathematics, Computer vision." />
-<link rel="canonical" href="http://localhost:4000/cvoptim/info/" />
-<meta property="og:url" content="http://localhost:4000/cvoptim/info/" />
+<link rel="canonical" href="http://localhost:4000/cvoptim/about.markdodwn" />
+<meta property="og:url" content="http://localhost:4000/cvoptim/about.markdodwn" />
 <meta property="og:site_name" content="Welcome" />
 <script type="application/ld+json">
-{"@type":"WebPage","url":"http://localhost:4000/cvoptim/info/","headline":"References","description":"Teaching and research activities: Applied mathematics, Computer vision.","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"http://localhost:4000/cvoptim/about.markdodwn","headline":"Contact","description":"Teaching and research activities: Applied mathematics, Computer vision.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/cvoptim/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/cvoptim/feed.xml" title="Welcome" /></head>
 <body><header class="site-header" role="banner">
@@ -36,24 +36,19 @@
         <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">References</h1>
+    <h1 class="post-title">Contact</h1>
   </header>
 
   <div class="post-content">
-    <h3 id="courses">Courses</h3>
-<ul>
-  <li><a href="http://www.stat.cmu.edu/~ryantibs/convexopt">Convex Optimization</a></li>
-  <li><a href="http://stanford.edu/class/ee364a">Steve Boyd, Convex Optimization, Stanford</a>, <a href="http://www.youtube.com/watch?v=McLq1hEq3UY">videos lectures</a></li>
-  <li><a href="http://www.seas.ucla.edu/~vandenbe/ee236c.html">ECE236C - Optimization Methods for Large-Scale Systems</a></li>
-  <li><a href="http://suvrit.de/teach/ee227a/">EE227A, Convex Optimization</a></li>
-</ul>
+    Pr. Mohammed Hachama
 
-<h3 id="books">Books</h3>
-<ul>
-  <li>Livre : cours d’optimisation convexe</li>
-  <li></li>
-</ul>
+University of Khemis Miliana, Algeria 
 
+[Laboratory of Pure and Applied Mathematics](http://virtuelcampus.univ-msila.dz/lmpa2/)
+
+Email : <hachamam@gmail.com>
+
+[Web Page](https://sites.google.com/site/hachamam/)
   </div>
 
 </article>

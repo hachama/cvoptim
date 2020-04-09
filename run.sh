@@ -1,5 +1,5 @@
 
- bundle exec jekyll serve --livereload
+bundle exec jekyll serve --livereload
 
 git add .
 git commit -m "v1"

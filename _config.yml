@@ -34,8 +34,9 @@ plugins:
   - jekyll-youtube
 
 header_pages:
-  - about.markdown
   - material.md
+  - info.markdown
+  - about.markdown
 
 # Server Config options
 livereload: true     # You no longer need to include --livereload
