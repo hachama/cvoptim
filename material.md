@@ -7,7 +7,7 @@ permalink: /material/
 
 | Week |  Chapter                                          | Slides/Scibes                    | Notebooks | Exercices 
 |:----:|:-------------------------------------------------:|:--------------------------------:|:---------:|:---------:     
-|  1   | Introduction                                      |   [course 1](../td/course1.pdf)  |   -       |  [TD 1](../td/td1.pdf)
+|  1   | **Introduction**                                  |   [course 1](../td/course1.pdf)  |   -       |  [TD 1](../td/td1.pdf)
 |  1-3 | **Unconstrained and constrained optimization**    |   -                              |   -       |  
 |      | First order condition, Second order condition     |                                  |           |  
 |      | Problems: Regression, Least-squares               |                                  |           |  
