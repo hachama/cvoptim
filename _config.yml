@@ -36,7 +36,7 @@ plugins:
 header_pages:
   - material.markdown
   - info.markdown
-  - about.markdown
+  - about.md
 
 # Server Config options
 livereload: true     # You no longer need to include --livereload
