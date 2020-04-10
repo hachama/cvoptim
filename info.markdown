@@ -12,4 +12,3 @@ permalink: /info/
 
 ### Books
 * Livre : cours d'optimisation convexe
-* 
