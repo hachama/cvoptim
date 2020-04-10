@@ -35,7 +35,7 @@ plugins:
 
 header_pages:
   - material.md
-  - info.markdown
+  - info.md
   - about.markdown
 
 # Server Config options
