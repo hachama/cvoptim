@@ -12,4 +12,4 @@ University of Khemis Miliana, Algeria
 
 Email : <hachamam@gmail.com>
 
-[Web Page](https://hachama.github.io/)
+[Web Page](https://hachama.github.io/home/)
