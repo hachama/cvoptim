@@ -34,8 +34,8 @@ plugins:
   - jekyll-youtube
 
 header_pages:
-  - material.md
-  - info.md
+  - material.markdown
+  - info.markdown
   - about.markdown
 
 # Server Config options
