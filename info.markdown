@@ -11,4 +11,5 @@ permalink: /info/
 * [EE227A, Convex Optimization](http://suvrit.de/teach/ee227a/)
 
 ### Books
+* An [Introduction to Optimization](https://www.amazon.com/Introduction-Optimization-Edwin-K-Chong/dp/1118279018), 4th Edition, by Edwin K. P. Chong, Stanislaw H. Zak
 * Livre : cours d'optimisation convexe
