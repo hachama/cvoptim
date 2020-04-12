@@ -8,7 +8,7 @@ permalink: /material/
 | Week |  Chapter                                          | Slides/Scibes                    | Notebooks | Exercises 
 |:----:|:-------------------------------------------------:|:--------------------------------:|:---------:|:---------:     
 |  1   | **Introduction**                                  |   [course 1](../td/course1.pdf)  |   -       |  [TD 1](../td/td1.pdf)
-|  1-3 | **Unconstrained and constrained optimization**    |   [course 1](../td/course2.pdf)  |   -       |  [TD 2](../td/td2.pdf)
+|  1-3 | **Unconstrained and constrained optimization**    |   [course 2](../td/course2.pdf)  |   -       |  [TD 2](../td/td2.pdf)
 |      | First order condition, Second order condition     |                                  |           |  
 |      | Problems: Regression, Least-squares               |                                  |           |  
 |  4-5 | **Convex sets and functions**                     |   -                              |   -       |  -
