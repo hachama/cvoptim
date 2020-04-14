@@ -1,4 +1,4 @@
-I"g<h3 id="courses">Courses</h3>
+I"<h3 id="courses">Courses</h3>
 <ul>
   <li><a href="http://www.stat.cmu.edu/~ryantibs/convexopt">Convex Optimization</a></li>
   <li><a href="http://stanford.edu/class/ee364a">Steve Boyd, Convex Optimization, Stanford</a>, <a href="http://www.youtube.com/watch?v=McLq1hEq3UY">videos lectures</a></li>
@@ -8,7 +8,7 @@
 
 <h3 id="books">Books</h3>
 <ul>
+  <li>An <a href="https://www.amazon.com/Introduction-Optimization-Edwin-K-Chong/dp/1118279018">Introduction to Optimization</a>, 4th Edition, by Edwin K. P. Chong, Stanislaw H. Zak</li>
   <li>Livre : cours d’optimisation convexe</li>
-  <li></li>
 </ul>
 :ET
