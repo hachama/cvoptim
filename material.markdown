@@ -11,7 +11,7 @@ permalink: /material/
 |  1-3 | **Unconstrained and constrained optimization**    |   [course 2](../td/course2.pdf)  |   -       |  [TD 2](../td/td2.pdf)
 |      | First order condition, Second order condition     |                                  |           |  
 |      | Problems: Regression, Least-squares               |                                  |           |  
-|  4-5 | **Convex sets and functions**                     |   -                              |   -       |  -
+|  4-5 | **Convex sets and functions**                     |   [course 2](../td/course3.pdf)  |   -       |  [TD 2](../td/td3.pdf)
 |      | Convex sets                                       |                                  |           |  
 |      | Convex functions                                  |                                  |           |  
 |      | Optimization problems                             |                                  |           |  
