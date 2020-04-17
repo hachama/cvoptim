@@ -15,7 +15,7 @@ permalink: /material/
 |      | Convex sets                                       |                                  |           |  
 |      | Convex functions                                  |                                  |           |  
 |      | Optimization problems                             |                                  |           |  
-| 6-8  | **First-order methods**                           |   -                              |   -       |  -
+| 6-8  | **First-order methods**                           |   [course 4](../td/course4.pdf)  |   -       |  [TD 4](../td/td4.pdf)
 |      | Gradient and sub-gradient methods                 |                                  |           |  
 |      | Legendre-Fenchel transform                        |                                  |           |  
 |      | Proximal algorithms                               |                                  |           |  
