@@ -20,7 +20,7 @@ permalink: /material/
 |      | Legendre-Fenchel transform                        |                                  |           |  
 |      | Proximal algorithms                               |                                  |           |  
 |      | Applications                                      |                                  |           |  
-|10    | **Optimality and duality**                        |   -                              |   -       |  -
+|9-10  | **Optimality and duality**                        |   [course 5](../td/course5.pdf)  |   -       |  -
 |      | Duality                                           |                                  |           |  
 |      | Applications                                      |                                  |           |  
 |11-12 | **Sparse modeling**                               |   -                              |   -       |  -

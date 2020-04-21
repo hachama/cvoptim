@@ -14,4 +14,7 @@ permalink: /info/
 ### Books
 * [Convex optimization, Boyd](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 * An [Introduction to Optimization](https://www.amazon.com/Introduction-Optimization-Edwin-K-Chong/dp/1118279018), 4th Edition, by Edwin K. P. Chong, Stanislaw H. Zak
-* Livre : cours d'optimisation convexe
+* A. Beck, First-Order Methods in Optimization, SIAM.
+* D. Bertsekas, Convex Optimization Algorithms, Athena Scientific.
+* Yu. Nesterov, Lectures on Convex Optimization, Springer.
+* Convexité et optimisation, Guy Cohen
